@@ -2,7 +2,7 @@
   "messages": [
     {
       "message_text": {
-        "en": "bla bla",
+        "en": "Dear @FIRSTNAME@,\nThe PrintOS app will be down for maintenance on @DATE_DDD_MM_dd@ at @TIME@, for up to 2 hours.\nWe will do our best to make it as short as possible.",
         "fr": "bla bla",
         "it": "bla bla",
         "es": "bla bla",
