@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "message_text": {
+        "en": "bla bla",
+        "fr": "bla bla",
+        "it": "bla bla",
+        "es": "bla bla",
+        "de": "bla bla",
+        "zh": "bla bla",
+        "ko": "bla bla",
+        "ja": "bla bla",
+        "ru": "bla bla",
+        "pt": "bla bla"
+      },
+      "messageGuid": "123456789",
+      "showCount": 1,
+      "showFrom": "2017-09-07T06:00:00.000+0000",
+      "showTo": "2017-08-31T06:00:00.000+0000"
+    },
+    {
+      "message_text": {
+        "en": "bla bla",
+        "fr": "bla bla",
+        "it": "bla bla",
+        "es": "bla bla",
+        "de": "bla bla",
+        "zh": "bla bla",
+        "ko": "bla bla",
+        "ja": "bla bla",
+        "ru": "bla bla",
+        "pt": "bla bla"
+      },
+      "messageGuid": "1234567890",
+      "showCount": 1,
+      "showFrom": "2017-09-07T06:00:00.000+0000",
+      "showTo": "2017-08-31T06:00:00.000+0000"
+    }
+  ]
+}
